@@ -1,5 +1,5 @@
 ![logo](https://github.com/isurusrimal99/isurusrimal99/blob/main/gif.gif)
-![logo](https://github.com/isurusrimal99/isurusrimal99/blob/main/gif.gif)
+
 <h1 align="center">Hi 👋, I'm Isuru Srimal Perera</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 
