@@ -1,4 +1,5 @@
-<img align="center" alt=coding src="[https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216](https://thumbs.gfycat.com/HarmlessFlimsyFoxhound-size_restricted.gif)">
+![logo](https://github.com/isurusrimal99/isurusrimal99/blob/main/gif.gif)
+![logo](https://github.com/isurusrimal99/isurusrimal99/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Isuru Srimal Perera</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 
